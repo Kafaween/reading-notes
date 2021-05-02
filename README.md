@@ -12,6 +12,6 @@ like a wise man once said:
 > It’s believing that even if you fail at something, you can still succeed.
 
  3 reminders to yourself of how to keep yourself in a growth mindset
- *my goals
- *my paste mistakes
- *keep pushing my self 
+ * my goals
+ * my paste mistakes
+ * keep pushing my self 
