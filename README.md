@@ -5,12 +5,15 @@
 
 ![](https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/05/how-to-write-an-introduction.jpg)
 
-| Topic                                       | link        |
-| ------------------------------------------- | ----------- |
-|Growth Mindset                                 |  [Lab01b](https://kafaween.github.io/reading-notes/Home%20page )      |
-| Learning Markdown                               |  [Read01]( https://kafaween.github.io/reading-notes/Read:%2001%20-%20Learning%20Markdown )        |
-|Read02                                 |  [Revisions and the Cloud](https://kafaween.github.io/reading-notes/Reflection%20and%20Discussion )           |  
---------------------------------------------------------------------------------
+ Topic--------------------------------------------link        
+ -------------------------------------------  ----------- 
+Growth Mindset--------------------------------[Lab01b](https://kafaween.github.io/reading-notes/Home%20page )      |
+ 
+ Learning Markdown----------------------------[Read01]( https://kafaween.github.io/reading-notes/Read:%2001%20-%20Learning%20Markdown )        |
+
+Revisions and the Cloud------------------------[Read02](https://kafaween.github.io/reading-notes/Reflection%20and%20Discussion )           |  
+
+
 
 
 
