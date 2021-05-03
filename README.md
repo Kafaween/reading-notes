@@ -15,17 +15,7 @@
 like a wise man once said:
 > It’s believing that even if you fail at something, you can still succeed.
 
- 3 reminders to yourself of how to keep yourself in a growth mindset
- * my goals
- * my paste mistakes
- * keep pushing my self 
-
-# the Differnce Between fixed Mindset vs Growth Mindset.
-
-  * A growth mindset means that you believe your intelligence and talents can be developed over time. 
-  
-  * A fixed mindset means that you believe intelligence is fixed—so if you’re not good at something, you might believe you’ll never be good at it.
-
+ 
 
 
 
