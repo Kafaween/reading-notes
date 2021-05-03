@@ -6,7 +6,7 @@
 ![](https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/05/how-to-write-an-introduction.jpg)
 
  Topic--------------------------------------------link        
- -------------------------------------------  ----------- 
+ 
 Growth Mindset--------------------------------[Lab01b](https://kafaween.github.io/reading-notes/Home%20page )      |
  
  Learning Markdown----------------------------[Read01]( https://kafaween.github.io/reading-notes/Read:%2001%20-%20Learning%20Markdown )        |
