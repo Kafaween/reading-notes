@@ -1,5 +1,5 @@
 # growth mindset
- ## My name is Abdelrahman Kafaween and stick with me to get some breef infos about growth mindset
+## My name is Abdelrahman Kafaween and stick with me to get some breef infos about growth mindset
  
 ![](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain.png)
 
