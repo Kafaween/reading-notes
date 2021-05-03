@@ -4,6 +4,6 @@
 
 | Topic                                       | link        |
 | ------------------------------------------- | ----------- |
-|Introduction                                 |  (1)[https://kafaween.github.io/reading-notes/]      |
-| questionnaire                               |  (2)[https://kafaween.github.io/reading-notes/questioner]        |
-|references                                   |  (3)[https://kafaween.github.io/reading-notes/references]           |  
+|Introduction                                 |  (1)[ https://kafaween.github.io/reading-notes/ ]      |
+| questionnaire                               |  (2)[ https://kafaween.github.io/reading-notes/questioner ]        |
+|references                                   |  (3)[ https://kafaween.github.io/reading-notes/references ]           |  
