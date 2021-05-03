@@ -13,16 +13,16 @@ In Html it is branched out into more than one element elements in HTML are the b
 # Semantics
 
 Piece of code which effects our contents ,in HTML there many of them called semantic element such as following:
-* <article>
-* <aside>
-* <details>
-* <figcaption>
-* <figure>
-* <footer>
-* <header>
-* <main>
-* <mark>
-* <nav>
-* <section>
-* <summary>
-* <time>
+* article
+* aside
+* details
+* figcaption
+* figure
+* footer
+* header
+* main
+* mark
+* nav
+* section
+* summary
+* time
