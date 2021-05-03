@@ -7,7 +7,7 @@
 
  Topic--------------------------------------------link        
  
-Growth Mindset--------------------------------[Lab01b](https://kafaween.github.io/reading-notes/Home%20page )      |
+Growth Mindset--------------------------------[Lab01b](https://kafaween.github.io/reading-notes/growth )      |
  
  Learning Markdown----------------------------[Read01]( https://kafaween.github.io/reading-notes/Read:%2001%20-%20Learning%20Markdown )        |
 
