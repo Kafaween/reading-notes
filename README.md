@@ -16,3 +16,21 @@ like a wise man once said:
  * my goals
  * my paste mistakes
  * keep pushing my self 
+
+# the Differnce Between fixed Mindset vs Growth Mindset.
+
+  * A growth mindset means that you believe your intelligence and talents can be developed over time. 
+  
+  * A fixed mindset means that you believe intelligence is fixed—so if you’re not good at something, you might believe you’ll never be good at it.
+
+
+
+
+## you can check your mindset using this link:🔗
+
+   * [mindset health](https://www.mindsethealth.com/self-tests/mindset-quiz).
+
+## Some Refrences: 🔗
+
+   * [developed your mindset training](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/).
+
