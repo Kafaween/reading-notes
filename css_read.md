@@ -6,8 +6,8 @@
 Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
 
 #How to add CSS
-* External CSS *External styles are defined within the <link> element, inside the <head> section of an HTML page*
-* Internal CSS *Internal styles are defined within the <style> element, inside the <head> section of an HTML page*
+* External CSS *External styles are defined within the link element, inside the head section of an HTML page*
+* Internal CSS *Internal styles are defined within the style element, inside the head section of an HTML page*
 * Inline CSS *Inline styles are defined within the "style" attribute of the relevant element*
 
 ### There are three ways to define colors in CSS
