@@ -1,4 +1,7 @@
 # What is a CSS ??
+![](https://disenowebakus.net/en/images/articles/learn-css.jpg)
+
+
 (Cascading Style Sheets) allows you to create great-looking web pages , it like adds a soul to the website 
 Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
 
