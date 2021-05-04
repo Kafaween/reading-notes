@@ -15,6 +15,8 @@ Revisions and the Cloud------------------------[Read02](https://kafaween.github.
 
 Structure web pages with HTML----------------[Read03](https://kafaween.github.io/reading-notes/html_task) |
 
+Design web pages with CSS---------------------[Read03b](https://kafaween.github.io/reading-notes/css_read) |
+
 
 
 
