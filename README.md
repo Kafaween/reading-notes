@@ -17,6 +17,8 @@ Structure web pages with HTML----------------[Read03](https://kafaween.github.io
 
 Design web pages with CSS---------------------[Read03b](https://kafaween.github.io/reading-notes/css_read) |
 
+Dynamic web pages with JavaScript-------------[Read04a](https://kafaween.github.io/reading-notes/jsread)  |
+
 
 
 
