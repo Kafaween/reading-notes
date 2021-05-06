@@ -19,6 +19,8 @@ Design web pages with CSS---------------------[Read03b](https://kafaween.github.
 
 Dynamic web pages with JavaScript-------------[Read04a](https://kafaween.github.io/reading-notes/jsread)  |
 
+Operators and Loops---------------------------[Read05](https://kafaween.github.io/reading-notes/jsread2)  |
+
 
 
 
