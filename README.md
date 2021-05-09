@@ -21,6 +21,7 @@ Dynamic web pages with JavaScript-------------[Read04a](https://kafaween.github.
 
 Operators and Loops---------------------------[Read05](https://kafaween.github.io/reading-notes/jsread2)  |
 
+Programming with JavaScript-------------------[Read06](https://kafaween.github.io/reading-notes/function-js)  |
 
 
 
